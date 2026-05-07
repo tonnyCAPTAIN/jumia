@@ -1,6 +1,5 @@
 #  Jumia Product Analysis – Excel & Dashboard Project
 
-![Jumia Product Performance Dashboard](images/dashboard.png)
 
 ##  Project Overview
 
