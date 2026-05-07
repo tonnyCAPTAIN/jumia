@@ -1,5 +1,7 @@
 #  Jumia Product Analysis – Excel & Dashboard Project
 
+![Jumia Product Performance Dashboard](images/dashboard.png)
+
 ##  Project Overview
 
 This project involves scraping, cleaning, and analyzing product data from **Jumia Kenya** to uncover insights around pricing, discounts, customer ratings, and product reviews. The findings are presented through an interactive **Excel dashboard** built to support data-driven decision-making for sellers and buyers on the platform.
